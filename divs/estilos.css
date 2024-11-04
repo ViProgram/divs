@@ -1,0 +1,57 @@
+.Tudo{ 
+
+display: flex; 
+
+
+text-align: center; 
+
+} 
+
+.Começo{ 
+
+display: inline-block; 
+
+background-color: rgb(241, 39, 39); 
+
+width: 200px; 
+
+height: 200px; 
+
+border-style: inset; 
+
+margin: 10px; 
+
+} 
+
+.Meio{ 
+
+display: inline-block; 
+
+background-color: rgb(198, 240, 85); 
+
+width: 250px; 
+
+height: 250px; 
+
+border-style: inset; 
+
+margin: 10px; 
+
+} 
+
+.Fim{ 
+
+display: inline-block; 
+
+background-color: rgb(25, 105, 255); 
+color: rgb(250, 160, 41);
+
+width: 300px; 
+
+height: 300px; 
+
+border-style: inset; 
+
+margin: 10px; 
+
+} 
